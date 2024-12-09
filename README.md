@@ -1,1 +1,1 @@
-# ExampleJavaCalc
+# Java Calculator
